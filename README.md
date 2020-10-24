@@ -10,6 +10,10 @@
  * [Deployment](#Deployment)
  * [Bug / Feature Request](#Bug--Feature-Request)
  
+
+### Demo
+check Out my app: link [https://flight-price-predictionn.herokuapp.com/predict](https://flight-price-predictionn.herokuapp.com/predict)
+ 
  ### Overview
  Flask Web App for Flight Price Prediction
  
