@@ -1,6 +1,6 @@
 # Flight Price Prediction
 
-# Table of content
+### Table of content
  * [Demo](#Demo)
  * [Overview](#Overview)
  * [Installation](#Installation)
