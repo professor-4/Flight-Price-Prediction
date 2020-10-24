@@ -8,7 +8,7 @@
  * [Code](#Code)
  * [Dataset](#Dataset)
  * [Deployment](#Deployment)
- * [Bug/Feature Request](#Bug/Feature-Request)
+ * [Bug / Feature Request](#Bug--Feature-Request)
  
  ### Overview
  Flask Web App for Flight Price Prediction
@@ -45,7 +45,7 @@ After performing feature enginerring and feature selection (to find out which wi
 ### Deployment
 For deployment of model I used Heroku (A platform to run, build and operate application entirely in the cloud) To know more about step by step process of building and deploying our application on Heroku, you can find it [here](https://devcenter.heroku.com/articles/getting-started-with-python).
 
-### Bug/Feature Request 
+### Bug / Feature Request 
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/professor-4/Flight-Price-Prediction/issues) here by including your search query and the expected result
 
 
