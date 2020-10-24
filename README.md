@@ -1,6 +1,7 @@
 # Flight Price Prediction
 
 ### Table of content
+_________________________________
  * [Demo](#Demo)
  * [Overview](#Overview)
  * [Installation](#Installation)
@@ -12,12 +13,15 @@
  
 
 ### Demo
+-----------------------------
 check Out my app: link [https://flight-price-predictionn.herokuapp.com/predict](https://flight-price-predictionn.herokuapp.com/predict)
  
  ### Overview
+ -----------------------------
  Flask Web App for Flight Price Prediction
  
  ### Installation
+ ----------------------------
 This code is written in python 3.6.10. If you want to install Python You can [click here](https://realpython.com/installing-python/) to know more about it. If you have python but not having required libraries and packages, then you can install those libraries and command using this command.
  ```bash
 pip install -r requirements.txt
