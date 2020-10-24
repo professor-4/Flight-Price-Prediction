@@ -7,6 +7,8 @@
  * [Technologies Used](#Technologies-Used)
  * [Code](#Code)
  * [Dataset](#Dataset)
+ * [Deployment](#Deployment)
+ * [Bug/Feature Request](#Bug/Feature-Request)
  
  ### Overview
  Flask Web App for Flight Price Prediction
