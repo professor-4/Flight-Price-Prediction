@@ -14,7 +14,7 @@ _________________________________
 
 ### Demo
 -----------------------------
-check Out my app: link [https://flight-price-predictionn.herokuapp.com/predict](https://flight-price-predictionn.herokuapp.com/predict)
+Check out my app: link [https://flight-price-predictionn.herokuapp.com/predict](https://flight-price-predictionn.herokuapp.com/predict)
  
  ### Overview
  -----------------------------
