@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 After performing feature enginerring and feature selection (to find out which will contribute and have good relation with target variableI) on data set, I trained the model to predict price by Using [Random Forest](https://en.wikipedia.org/wiki/Random_forest). To serialize our python code we used pickle module. Pickel moduel Is used to convert python object into a byte stream. You can Read more about pickle Module [here](https://docs.python.org/3/library/pickle.html#:~:text=%E2%80%9CPickling%E2%80%9D%20is%20the%20process%20whereby,back%20into%20an%20object%20hierarchy.).
 
-*Find the code [here]()* 
+*Find the code [here](https://github.com/professor-4/Flight-Price-Prediction/blob/main/Flight_price.ipynb)* 
 
 
 
